@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "candidateName": "user2@gmail.com",
+    "interviewScore": "0",
+    "status": "completed"
+  },
+  {
+    "id": 2,
+    "candidateName": "user1@gmail.com",
+    "interviewScore": "0",
+    "status": "completed"
+  }
+]
